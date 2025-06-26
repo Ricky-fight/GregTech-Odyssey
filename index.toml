@@ -493,6 +493,10 @@ file = "config/bocchium-client.toml"
 hash = "e4a22ed5e7f5963e907b8362fb421e2f8c5f178364de4186c841b06351c45a71"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "603a4dd5e44042ea02dccb571bcb70909cf3f50bec9b4db26f2f29e7a7d0ed20"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
 
@@ -1033,6 +1037,10 @@ file = "config/mae2-common.toml"
 hash = "ff36b268bc1d0fdf911c5179c286a52b1751528caefeacfb81c369d6d396a2c3"
 
 [[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
 file = "config/merequester-common.toml"
 hash = "0b71e187554ba1c0e019af859c75836d34b9cd1a8e68fa5ffff12e1647b8a827"
 
@@ -1289,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
-hash = "4d451384c0b0bc05aea0fb99184e5cb7e043026447216d8633492368ed73162a"
+hash = "207a3548f31976bc53725837d9da8d56bb4a72b2f1a3731f5c7f09d68d635f2a"
 metafile = true
 
 [[files]]
@@ -1405,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/bocchium.pw.toml"
 hash = "83b90ad8de8562a7b950081d044a17491292caec6e3561fcdb6f2972c3c16e6b"
+metafile = true
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "f2b137da7a07dea0647fb33334623f9b5e157a06ea2c39c3939b1104bebe4256"
 metafile = true
 
 [[files]]
@@ -1734,7 +1747,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtocore-0.2.5.jar"
-hash = "d332a8273955579f95c670946432946bc9862ab106fb85b0b13b035e576bc8ec"
+hash = "2545793a7d0102cf42eee7ced8339beee38f2f99b8a2642437520e2f40084231"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1809,6 +1822,11 @@ metafile = true
 [[files]]
 file = "mods/loot-bag.pw.toml"
 hash = "426b926baa24e3870dc6b4bb4bbe1a7864aa453072775c6348a7d76519a17fb0"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "445fc568c930cbbe03f60553237902245578acd0922fa67896e2a387abc2ae2f"
 metafile = true
 
 [[files]]

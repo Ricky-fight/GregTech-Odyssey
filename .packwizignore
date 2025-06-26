@@ -29,6 +29,7 @@
 /config/gtocore.yaml
 /config/spark/
 /config/fabric/
+/config/bocchud/
 /mods/.index/
 /mods/*.jar
 /gtceu/
