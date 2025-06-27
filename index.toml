@@ -1436,6 +1436,11 @@ hash = "05593aac6e7b7e5188615120935de0c2ca27e8e6da047e49a76575b0f4086c65"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "9f3b027d3254c1bcc6fcce7864c4c725124c2c10c58d1919956d7b042b9748a5"
 metafile = true
