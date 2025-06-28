@@ -493,10 +493,6 @@ file = "config/bocchium-client.toml"
 hash = "e4a22ed5e7f5963e907b8362fb421e2f8c5f178364de4186c841b06351c45a71"
 
 [[files]]
-file = "config/bocchud.json"
-hash = "603a4dd5e44042ea02dccb571bcb70909cf3f50bec9b4db26f2f29e7a7d0ed20"
-
-[[files]]
 file = "config/botania-client.toml"
 hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
 
@@ -507,6 +503,10 @@ hash = "b305a87b0257f74008f155815f2d15c229002859d33828d453e64fbc172d7d77"
 [[files]]
 file = "config/buildinggadgets2-common.toml"
 hash = "cd34bf34ff49c47333b435be7523979037df203f9572bfd0ea5b5f961c86445f"
+
+[[files]]
+file = "config/camera-client.toml"
+hash = "dcf0fecc792347cd0b2f86a73db05c987fbac5d4e04d6ddf5793b73fc4de0883"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -1416,11 +1416,6 @@ hash = "83b90ad8de8562a7b950081d044a17491292caec6e3561fcdb6f2972c3c16e6b"
 metafile = true
 
 [[files]]
-file = "mods/bocchud.pw.toml"
-hash = "f2b137da7a07dea0647fb33334623f9b5e157a06ea2c39c3939b1104bebe4256"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "8a4b1bb77de5a88e4cc3815a75c447a3f9d08412f2814261452b27bc47daa011"
 metafile = true
@@ -1751,8 +1746,8 @@ hash = "ec6ca70189bad0eea904f37174028f01713601a3008139a4d258f3c1075dfdf7"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.2.5.jar"
-hash = "2545793a7d0102cf42eee7ced8339beee38f2f99b8a2642437520e2f40084231"
+file = "mods/gtocore-0.2.6.jar"
+hash = "8f1d7bc0159526e158664c33c42ed3b134399340ed4b83658fd68a6c95019c4d"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1827,11 +1822,6 @@ metafile = true
 [[files]]
 file = "mods/loot-bag.pw.toml"
 hash = "426b926baa24e3870dc6b4bb4bbe1a7864aa453072775c6348a7d76519a17fb0"
-metafile = true
-
-[[files]]
-file = "mods/mafglib.pw.toml"
-hash = "445fc568c930cbbe03f60553237902245578acd0922fa67896e2a387abc2ae2f"
 metafile = true
 
 [[files]]
