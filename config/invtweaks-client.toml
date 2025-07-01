@@ -29,11 +29,19 @@
 	#Out-of-bound slots are ignored
 	#Omit sortRange to leave as default
 	[[sorting.containerOverrides]]
-		containerClass = "de.mari_023.ae2wtlib.wct.*Screen"
+		containerClass = "de.mari_023.ae2wtlib.wat.WATScreen"
 		sortRange = ""
 
 	[[sorting.containerOverrides]]
-		containerClass = "com.github.glodblock.epp.client.gui.*"
+		containerClass = "de.mari_023.ae2wtlib.wct.WCTScreen"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "de.mari_023.ae2wtlib.wet.WETScreen"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "com.github.glodblock.extendedae.client.gui.*"
 		sortRange = ""
 
 	[[sorting.containerOverrides]]

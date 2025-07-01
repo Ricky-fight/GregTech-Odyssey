@@ -408,6 +408,14 @@ client:
     # Default: true
     renderFluids: true
 
+    # Whether or not to color tiered machine highlights in the tier color
+    # Default: true
+    coloredTieredMachineOutline: true
+
+    # Whether or not to color wire/cable highlights based on voltage tier
+    # Default: true
+    coloredWireOutline: true
+
 # Config options for Tools and Armor
 tools:
   # Random chance for electric tools to take actual damage
