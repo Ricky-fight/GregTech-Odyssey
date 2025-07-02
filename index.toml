@@ -1070,7 +1070,7 @@ hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "584307f45392e0345046cc23d0e3fb4db3348c05ec8d4111e6c6b7e800beca4c"
+hash = "d15d2218175712ea9145ab6c27fc9e1c34419d7f6e1f66b7aa8f90b9cb7545bc"
 
 [[files]]
 file = "config/morered-client.toml"
@@ -1755,8 +1755,8 @@ hash = "ec6ca70189bad0eea904f37174028f01713601a3008139a4d258f3c1075dfdf7"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.2.7.jar"
-hash = "9ac340ab9f91510d240a338c73c52f4cc53911b30b005f51bb4aba57f450a653"
+file = "mods/gtocore-0.2.8.jar"
+hash = "d2dd6ca2717c4d12d42bf895721733336e98a2e85e953231127c90a93ae57a03"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1860,7 +1860,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d67f3ac8920ae6bc778bb51ce44a9f0ed0b5f81df3b9213f130542610122921"
+hash = "f9491977b0bb345ef0c0d53a68b4f3619ced08475d6eb3461096659e22c9a40a"
 metafile = true
 
 [[files]]
