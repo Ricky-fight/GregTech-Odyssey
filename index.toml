@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtocore-0.2.9.jar"
-hash = "83a4537c97e7a76b65ddfc407ee903609b829b36bacc07a03d075e1d8c3f93e7"
+hash = "e55fd2bc020acd6562726a12780f0116866a0d66e5295094f1bd9db53f3a1049"
 
 [[files]]
 file = "mods/guideme.pw.toml"
