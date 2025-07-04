@@ -1,13 +1,13 @@
 name = "GTMThings"
-filename = "gtmthings-1.4.9.jar"
+filename = "gtmthings-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "51eabd3da9a367512e71ba16f0d00be84d80a7d7"
+hash = "44aa9b8c942532623814b62af953b2d82ad99b89"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6694895
+file-id = 6725533
 project-id = 1104310

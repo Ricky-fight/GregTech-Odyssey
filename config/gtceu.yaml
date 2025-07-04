@@ -188,6 +188,10 @@ machines:
   # Default: true
   machineSounds: true
 
+  # Duration in ticks that batching will try to reach.
+  # Default: 100
+  batchDuration: 100
+
   # Whether Steam Multiblocks should use Steel instead of Bronze.
   # Default: false
   steelSteamMultiblocks: false

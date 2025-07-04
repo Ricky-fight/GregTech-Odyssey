@@ -926,7 +926,7 @@ hash = "8ca69d8240f29625a9589cb7701942ca9a29e02404fd5a3ecaefce454d951b62"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "5cfbd99e71e999fba2c6722330f6fb8c8f48c18fdcd3b7b15bb8aa88c84ea934"
+hash = "aa82c28dacbf8aaadab87176274ab2fa459d7b2804d4c3ba3a9018c29b6672c8"
 
 [[files]]
 file = "config/gtmthings.yaml"
@@ -1070,7 +1070,7 @@ hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "d15d2218175712ea9145ab6c27fc9e1c34419d7f6e1f66b7aa8f90b9cb7545bc"
+hash = "78d34e5feb777460d9f8fc9d591d2b24544f226aebd13195fd640cd6d5902c7e"
 
 [[files]]
 file = "config/morered-client.toml"
@@ -1195,6 +1195,10 @@ hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
 [[files]]
 file = "config/storagedrawers-common.toml"
 hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "8d65916d55009b95df3520f2ccca91e9c4f798214113e831aa5804a263458108"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1751,12 +1755,12 @@ metafile = true
 
 [[files]]
 file = "mods/gtmthings.pw.toml"
-hash = "ec6ca70189bad0eea904f37174028f01713601a3008139a4d258f3c1075dfdf7"
+hash = "a4902ac6efaa79f60978984502afb2ef2258ead09396986608f472339d32c690"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.2.8.jar"
-hash = "89974f84a3db50f335d33608b16c53a326f576e513a11f4003f7e3f2a8af6f1c"
+file = "mods/gtocore-0.2.9.jar"
+hash = "808af16b274b201e937cef416210e119f08925d93afb58dedcc329336f975129"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1860,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f9491977b0bb345ef0c0d53a68b4f3619ced08475d6eb3461096659e22c9a40a"
+hash = "31908feb6048658402fc4c539a9105775df2dcd2aef5973100946ac912705ee9"
 metafile = true
 
 [[files]]
@@ -2016,6 +2020,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "c2eac86256a3ecd45f6706976af120e0464b135c2b39471b9d93bcd8b5426a8b"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "99d6a9dd4575cea13291abd7f07ce8db5015de2bcf3f53889a9432375e47f3ac"
 metafile = true
 
 [[files]]
