@@ -259,3 +259,43 @@
 			#Range: 1 ~ 16
 			range = 3
 
+		#镜姬
+		#Mirrowtunia
+		[server.flower.mirrowtunia]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 2000
+			#施加效果消耗的魔力量
+			#Mana cost per effect
+			#Range: > 0
+			effectCost = 100
+
+		#死之花
+		#Necrofleur
+		[server.flower.necrofleur]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 200
+
+		#魔链星
+		#Manalink
+		[server.flower.manalink]
+			#魔力传输速度
+			#Mana transfer speed
+			#Range: > 0
+			transferSpeed = 400
+
+		#蕴魔瑾
+		#Enchanter
+		[server.flower.enchanter]
+			#转换草方块为蕴魔土的总消耗
+			#Total mana cost to transform grass to enchanted soil
+			#Range: > 0
+			transformCost = 250000
+			#魔力消耗速度
+			#Mana consume speed
+			#Range: > 0
+			consumeSpeed = 400
+
