@@ -702,7 +702,7 @@ hash = "46a265304c34e9814318ea4ba620d7762e29cdf7d0fb0088d623de7b8a22846d"
 
 [[files]]
 file = "config/extrabotany-common.toml"
-hash = "b15f218e646f6243dbb2c46c1f3a8530f56d3cf5aec7404277af4681335e7864"
+hash = "c6dd843c7e9bac5ae2fefa39a9d9e1274f7bbd20628fea5cf649d6bddf299e13"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -962,7 +962,7 @@ hash = "0e58c14457630b2ddaa22690acfd0d4271983c32d88e405b2649fb4f23289b87"
 
 [[files]]
 file = "config/invtweaks-client.toml"
-hash = "f9ad41c4e89635b4add986b909e8abbe1cadb81b7e62614f106afbc9ad62494a"
+hash = "a3a7fc8b1b7e2944475464dea7988569040cb3244675f858d509f06a748bff2f"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1640,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrabotany-reburn.pw.toml"
-hash = "46307618323314d8eb7aae54436dd48e239a3797bb46858bf7b179ec1ab16d9f"
+hash = "48ae3c2181d60fc12bd600783e8e085e032eb93f96bacb6b22638b46c39ec018"
 metafile = true
 
 [[files]]
@@ -1784,8 +1784,8 @@ hash = "9a8b08fcdf158630569ec5bb9aa1da61a700076d4caf0493901b80368927c30c"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.3.3.jar"
-hash = "1e16b442672112d243e60fade1f43f6894b9d63eb5ad59b4687a6be0bd966c77"
+file = "mods/gtocore-0.3.4.jar"
+hash = "21646186f4b52bdaaffd9752f5794ef585d00a710b3217e14f464759ccc3391a"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1809,7 +1809,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "f96ba50c566628b3fc2af47d893d8a78f163cb662f2c8fd986a619bf61a440c7"
+hash = "d182a82c1f048fc78ca7621c7555da5737d028d46f50e413059ca1c2b8a2e8c2"
 metafile = true
 
 [[files]]
@@ -2044,7 +2044,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "adbb2ddf9185252400d28d0f936d590032ada420a6158cfb65ed975ded5e4e88"
+hash = "06e36faed348504854eab93e873b1232158fc9ff1e08aa8f3dd614b2c067f58b"
 metafile = true
 
 [[files]]
