@@ -1,13 +1,13 @@
 name = "Extrabotany: Reburn"
-filename = "extrabotany-forge-1.20.1-1.9.0.jar"
+filename = "extrabotany-forge-1.20.1-1.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e90debfef5ce0870e3f513e264dd46099e1cd79e"
+hash = "3f479cd6c2f1b1c4a36e67e83e2d92dd6008ddcc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6816474
+file-id = 6818025
 project-id = 1271869
