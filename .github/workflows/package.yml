@@ -128,6 +128,7 @@ jobs:
           gh release create $TAG_NAME $PRERELEASE --title "$SUBJECT" --target $GITHUB_SHA GregTech-Odyssey/* GregTech-Odyssey-server-mods/* GregTech-Odyssey-client-mods/* GregTech-Odyssey-server/* 
   
   github-releases-to-discord:
+    needs: [package]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
