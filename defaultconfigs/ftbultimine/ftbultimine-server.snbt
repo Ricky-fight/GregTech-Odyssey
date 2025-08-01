@@ -4,7 +4,6 @@
 { 
 	max_blocks: 32768
 	merge_tags: [
-		"minecraft:base_stone_overworld"
 		"forge:ores"
 	]
 }
