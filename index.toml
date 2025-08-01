@@ -638,7 +638,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/emi.css"
-hash = "5945e3d06950df81f50595bbddbcbc4fa6f3ac7acc2c4fd74c29c0c7849bc3e2"
+hash = "f8f43d6e59323558378c6143afb1693d4bd7db78f023aac0ead3db1d7968541c"
 
 [[files]]
 file = "config/emitrades.json5"
@@ -1781,7 +1781,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtocore-0.3.6.jar"
-hash = "76a0df43e4cf9dc5f9068a8ff7dab536e12bf3cab1197b1f97af24a2e6ab73ec"
+hash = "4c3e0d26633821437ecef677d23bc02741e6b1eae9e06b30d68d7e9176cb020f"
 
 [[files]]
 file = "mods/guideme.pw.toml"
