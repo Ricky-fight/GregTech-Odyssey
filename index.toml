@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "bbe72cc42a5028a31ae48bdc04b1841fa3e7b4700fbc4098efe4255c03623df8"
+hash = "ddc8aa338991af86e389398f65de88102dd98fe7019aafbe3747703a82b21695"
 
 [[files]]
 file = "config/AdvancedBackups-client.properties"
@@ -70,7 +70,7 @@ hash = "2d0e1b8f2cd22226dd6dbca3fc95448510ff86508a7a0710ada0854cd76d2eff"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "56840e4c6a265049bce2846b6c11d0267a6fafa1b72a75b9d7b9a94dc55c5022"
+hash = "622e09e564b71080e3d7693ff6ec8c8cfff0e4d643669208516d054595f33f1f"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -1417,7 +1417,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "174749a5b3eaf31ca1a53ad8a748a9662f65fcc834bbd1aa1ce0eb104768e411"
+hash = "f44ea751fe59cb853834aba3f0ae4c9a20f02f36020ae40f4c38d073fd2a257b"
 metafile = true
 
 [[files]]
@@ -1442,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "3a3a3095e3d8bbbc3a0d6f1e98f06e3cc84fe381e6ef49e104a6d201e49b6ad0"
+hash = "728ee7a855d689f80732aceb66d177eec117baf4fae748d9309ebcdd507366f6"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
-hash = "05593aac6e7b7e5188615120935de0c2ca27e8e6da047e49a76575b0f4086c65"
+hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
 metafile = true
 
 [[files]]
@@ -1577,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "88dc067308257ff327bbd7ab941b1d070269e3375fdd556760d448207994d83a"
+hash = "58a09f7cd267b5dc1fe0e52b1fb1e01441a3c5d67888073ca3ae69a8c234cfa5"
 metafile = true
 
 [[files]]
@@ -1741,11 +1741,6 @@ hash = "7d4637b758cf710d61e2266578047852bab775209c7cf43beda8ce65e6a164c0"
 metafile = true
 
 [[files]]
-file = "mods/fluidium.pw.toml"
-hash = "73a92a758bfb9bba2c3e3760fda978b8d7b3796d14ecfc44bb9be6da430042f1"
-metafile = true
-
-[[files]]
 file = "mods/foodvariations.pw.toml"
 hash = "7049cc16bea0fd7e58c8b2f3e2719f95dccfef6937c57a7e218254d634f805c2"
 metafile = true
@@ -1811,13 +1806,8 @@ hash = "477c0165ac7a3d521157a8fa69fd5335804383fc04459e0ee7a2ce799a08c568"
 metafile = true
 
 [[files]]
-file = "mods/gtmthings.pw.toml"
-hash = "9a8b08fcdf158630569ec5bb9aa1da61a700076d4caf0493901b80368927c30c"
-metafile = true
-
-[[files]]
-file = "mods/gtocore-0.3.7.jar"
-hash = "d1a5e73d9e3d63894f8c4b6a09dc64efd2cdd6faf19d5bcca1cfc5a66e91e4f0"
+file = "mods/gtocore-0.3.8.jar"
+hash = "69e70a6ffedc3be8486d19f404e59ed0a9b2f5c099ec07fbcd23d5191555c602"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -1851,7 +1841,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "1ec948df384db323483d9d6d462e85ccdc6a8661f03d08dd02bfd2d847dcdf81"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
@@ -1886,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "f2bca4baf170dc6aef52ded0a062e9b1ff54ae06c0a756905c9116a2b1e25ca0"
+hash = "15c0a59c94602e702789fdfcb8a47d58fdd651d2c87600df257a3e7078f72d19"
 metafile = true
 
 [[files]]
@@ -1991,7 +1981,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "59291a994a6c28f42dafd468b50034b6ccee1e73717fc99cc9a69866f2b1c0a8"
+hash = "8bbe4baebc1eae2bc5676d521055abb17933256c922e6c750a6d042d7c2c392c"
 metafile = true
 
 [[files]]
@@ -2061,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bca498a73d554610d0429f255e8b02c661b8d46dacb956be3bc7cf849299b455"
+hash = "5f29baf659705d42c6f3a7b1f6bdb227c9474d20577aeaf72e5763a288ab67a4"
 metafile = true
 
 [[files]]
