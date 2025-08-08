@@ -614,7 +614,7 @@ hash = "a51452390308a18e517457440e251a4a1737433e6033875e4a3af6cc5afb9283"
 
 [[files]]
 file = "config/doespotatotick-common.toml"
-hash = "d24d14754704f4ce94325597f8f3df24f70f72f4aa1a24a6153b695126aced88"
+hash = "d30a431b54831824947c14c540d1ec986431c1c9ec071c1cc54d6e4d2b7cb8d9"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
@@ -1807,7 +1807,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtocore-0.3.8.jar"
-hash = "69e70a6ffedc3be8486d19f404e59ed0a9b2f5c099ec07fbcd23d5191555c602"
+hash = "e3e7a221ea398815da97ef12c95f0a4cc732ce7f84c63defaa8567f6e967954b"
 
 [[files]]
 file = "mods/guideme.pw.toml"
