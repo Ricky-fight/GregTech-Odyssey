@@ -1806,8 +1806,8 @@ hash = "477c0165ac7a3d521157a8fa69fd5335804383fc04459e0ee7a2ce799a08c568"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.3.9.jar"
-hash = "d78f0ab3b47db65fc253cbf1455e5d36931ddf5445e28674a108a001c1c0dbb7"
+file = "mods/gtocore-0.3.9.1.jar"
+hash = "0cffbb6766936d74b0c83ef9c1c0b3e0d284987e3a909fb58a2c7dadf1e8e561"
 
 [[files]]
 file = "mods/guideme.pw.toml"
