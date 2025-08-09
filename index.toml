@@ -974,7 +974,7 @@ hash = "8ca69d8240f29625a9589cb7701942ca9a29e02404fd5a3ecaefce454d951b62"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "3b4de1bf08bb2fa9362351578dbd4211c09bd1f574edb9a39f92315baf84b36b"
+hash = "b978c4af7ab0c146025f6a858b386e181099ea1c54928bae4be095563941627b"
 
 [[files]]
 file = "config/gtmthings.yaml"
@@ -1806,8 +1806,8 @@ hash = "477c0165ac7a3d521157a8fa69fd5335804383fc04459e0ee7a2ce799a08c568"
 metafile = true
 
 [[files]]
-file = "mods/gtocore-0.3.8.jar"
-hash = "e3e7a221ea398815da97ef12c95f0a4cc732ce7f84c63defaa8567f6e967954b"
+file = "mods/gtocore-0.3.9.jar"
+hash = "b9e889dab13b97c67fe9b004329bc3d0c5dddafad3019a9bc1214d8e30db19b8"
 
 [[files]]
 file = "mods/guideme.pw.toml"
