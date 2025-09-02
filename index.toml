@@ -778,7 +778,7 @@ hash = "36edba5bcfbabf479e0ffdf35de56fe0b91b80dd27f1b9706ad420a2e124e068"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae.snbt"
-hash = "6ece39d9a6bf7b9cca1fbc5c4db460cc978cbed644e2b44b4afc91244629e19e"
+hash = "89b6e6f31edcfe779e02fe133db61eab1650877853e3a2981e42be36321e926e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/apotheosis.snbt"
@@ -1306,15 +1306,15 @@ hash = "c1f4096060432fc606b51342f6479e5bad701fe36dcea1db5b793cc047b255f4"
 
 [[files]]
 file = "config/openloader/resources/quests/assets/gto/lang/en_us.json"
-hash = "b69f696f19a4790d09855c2a50abc9e0ee9e1e4de4bd656b8f3d2415e0a6e89b"
+hash = "341abf92bb7f716a50f6236dffd0385eea5044117090e4788eb42aa01c53a0ad"
 
 [[files]]
 file = "config/openloader/resources/quests/assets/gto/lang/zh_cn.json"
-hash = "3332c46ff89471f95a531e9d568bf2fa29fe5a8d81aeefff0f2103c90cd3ec7b"
+hash = "68dbdd1bee15e4e17fa82bad29c8e1b364570c978536906fe1a1637561092748"
 
 [[files]]
 file = "config/openloader/resources/quests/assets/gto/lang/zh_tw.json"
-hash = "e8d0f79143d53af4ee56372f2eecdb680b2f1ae724a921f9be2cc366cd7359b3"
+hash = "1b09d78fbc811c8dbc900719a1977497319b00476dd74d8dd3a2f445e60336b3"
 
 [[files]]
 file = "config/openloader/resources/quests/pack.mcmeta"

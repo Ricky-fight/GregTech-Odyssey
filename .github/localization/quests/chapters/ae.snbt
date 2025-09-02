@@ -13,6 +13,7 @@
 			description: [
 				"{gto.ae.quests.5FCFE3D6B36CC409.description0}"
 				"{gto.ae.quests.5FCFE3D6B36CC409.description1}"
+				"{gto.ae.quests.5FCFE3D6B36CC409.description2}"
 			]
 			icon: "ae2:controller"
 			id: "5FCFE3D6B36CC409"
