@@ -20,13 +20,8 @@ jobs:
       - name: Create branch & Checkout
         run: |
           branch_name=${GITHUB_SHA::7}
-          if [[ -n "$(git ls-remote origin $branch_name 2>/dev/null)" ]]; then
-            echo "branch ${branch_name} already exists"
-            exit -3
-          else
-            git checkout -b "${branch_name}"
-            git push origin "${branch_name}"
-          fi
+          git checkout -b "${branch_name}"
+          git push -u origin "${branch_name}"
           
       - name: Set up Python
         uses: actions/setup-python@v2
