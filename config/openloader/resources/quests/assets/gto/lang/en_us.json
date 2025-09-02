@@ -86,6 +86,7 @@
     "gto.ae.quests.5F522D73AF5F1B2F.title": "P2P Sample",
     "gto.ae.quests.5FCFE3D6B36CC409.description0": "Non-expert mode has &cno channel limit by default&r, no need to connect to an &6ME Controller&r, just ensure the current network has sufficient power.",
     "gto.ae.quests.5FCFE3D6B36CC409.description1": "You can use &6ME Controller&r to replace &6Energy Acceptor&r, but excessive channels may cause additional delay later, use the controller judiciously.",
+    "gto.ae.quests.5FCFE3D6B36CC409.description2": "可以使用&6ME控制器&r来替代&6能源接收器&r，但后期可能会因为加载过多频道造成额外的延迟，请斟酌使用控制器",
     "gto.ae.quests.5FCFE3D6B36CC409.subtitle": "AE is great without channels",
     "gto.ae.quests.5FCFE3D6B36CC409.title": "Getting Started with AE",
     "gto.ae.quests.61EC63B70D435744.description0": "Used to transport ME interfaces and ME sample suppliers, while preserving internal configuration and samples.",
